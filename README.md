@@ -54,4 +54,4 @@
   - Tailer in background
   - Title & Description
   - Movie Suggestions - MovieLists \* N
-- NetFlix GPT - Search Bar - Movie Suggestions
+  - NetFlix GPT - Search Bar - Movie Suggestions
