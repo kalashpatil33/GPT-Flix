@@ -1,4 +1,4 @@
-# Netflix GPT
+# Netflix GPT  (https://netflix-gpt-d534b.web.app/)
 
 - Create React App
 - Configure TailwindCSS
