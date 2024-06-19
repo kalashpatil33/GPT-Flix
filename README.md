@@ -1,4 +1,26 @@
-# Netflix GPT  (https://netflix-gpt-d534b.web.app/)
+# Netflix GPT (https://netflix-gpt-d534b.web.app/)
+
+# Visual Overview
+
+### Login Page
+
+![Login Page](Netflix/media/loginPage.png)
+
+### Recent Movie Trailer
+
+![Recent Movie Trailer](Netflix/media/RecentMovieTrailer.png)
+
+### Movie List Page
+
+![Movie List Page](Netflix/media/MovieListPage.png)
+
+### Movies Section
+
+![Movies Section](Netflix/media/moviesSection.png)
+
+### GPT integrated Search Page
+
+![AI Integrated Searchbar](./media/AI_integratedSearchbar.png)
 
 - Create React App
 - Configure TailwindCSS
@@ -63,6 +85,7 @@
    git clone https://github.com/kalashpatil33/Netflix-GPT.git
    ```
 2. **Install Required Dependencies**
+
    ```sh
    npm install
    ```
@@ -74,9 +97,10 @@
 
 # Usage
 
-  - Follow the installation steps to set up the project.
-  - Navigate to http://localhost:3000 in your browser to view the application.
+- Follow the installation steps to set up the project.
+- Navigate to http://localhost:3000 in your browser to view the application.
 
 # Contributing
-  - If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
-  - Regards - Kalash Patil 
+
+- If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
+- Regards - Kalash Patil
