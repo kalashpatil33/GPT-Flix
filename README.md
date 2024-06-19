@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Netflix GPT (https://netflix-gpt-d534b.web.app/)
+
+# Netflix GPT ([https://netflix-gpt-d534b.web.app](https://main.d33e3ex5y4jr1v.amplifyapp.com/))
 
 # Visual Overview
 
