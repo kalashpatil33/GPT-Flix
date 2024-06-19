@@ -5,19 +5,19 @@
 
 ### Login Page
 
-![Login Page](Netflix/media/loginPage.png)
+![Login Page](./media/loginPage.png)
 
 ### Recent Movie Trailer
 
-![Recent Movie Trailer](Netflix/media/RecentMovieTrailer.png)
+![Recent Movie Trailer](./media/RecentMovieTrailer.png)
 
 ### Movie List Page
 
-![Movie List Page](Netflix/media/MovieListPage.png)
+![Movie List Page](./media/MovieListPage.png)
 
 ### Movies Section
 
-![Movies Section](Netflix/media/moviesSection.png)
+![Movies Section](./media/moviesSection.png)
 
 ### GPT integrated Search Page
 
