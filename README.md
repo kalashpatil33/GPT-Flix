@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix GPT (https://netflix-gpt-d534b.web.app/)
 
 # Visual Overview
@@ -21,7 +22,11 @@
 ### GPT integrated Search Page
 
 ![AI Integrated Searchbar](./media/AI_integratedSearchbar.png)
+=======
+# Netflix GPT  
+>>>>>>> e9afe5b3bebce6c1fa144ddb3d5bd5fffc374d8a
 
+  - link ([https://netflix-gpt-d534b.web.app/](https://main.d33e3ex5y4jr1v.amplifyapp.com/browse))
 - Create React App
 - Configure TailwindCSS
   - Header
