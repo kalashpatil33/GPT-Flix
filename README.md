@@ -20,7 +20,7 @@
 
 ![AI Integrated Searchbar](./media/AI_integratedSearchbar.png)
 =======
-# Netflix GPT  
+# GPT-Flix
 
 
   - link ([https://netflix-gpt-d534b.web.app/](https://main.d33e3ex5y4jr1v.amplifyapp.com/browse))
